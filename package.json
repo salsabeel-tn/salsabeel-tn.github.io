@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akucintavalent/my-portfolio.git"
+    "url": "git+https://github.com/salsabeel-tn/my-portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akucintavalent/my-portfolio/issues"
+    "url": "https://github.com/salsabeel-tn/my-portfolio/issues"
   },
-  "homepage": "https://github.com/akucintavalent/my-portfolio#readme",
+  "homepage": "https://github.com/salsabeel-tn/my-portfolio#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
