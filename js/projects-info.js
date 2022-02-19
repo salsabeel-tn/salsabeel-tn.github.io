@@ -9,8 +9,8 @@ export default
       'JavaScript',
     ],
     text: 'This project is actually the cite you are reading this text at.',
-    liveLink: 'https://akucintavalent.github.io/my-portfolio/',
-    sourceLink: 'https://github.com/akucintavalent/my-portfolio',
+    liveLink: 'https://salsabeel-tn.github.io/my-portfolio/',
+    sourceLink: 'https://github.com/salsabeel-tn/my-portfolio',
   },
   
 ];
